@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<title>Current Inventory</title>
 </head>
 <body>
-
+<h1>Inventory</h1>\
+<p> Here are all the items we currently have in stock. All items have already been prepackaged and are awaiting for your purchase. Restocks
+are every first Saturday of the month. </p>
 </body>
 </html>
