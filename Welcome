@@ -7,11 +7,11 @@
 <div class="dropdown">
 <button class="dropbtn">Menu</button>
 <div class="dropdown-content">
-<a href="">Welcome</a>
-<a href="">Inventory</a>
-<a href="">Why Recycle?</a>
-<a href="">About Us</a>
-<a href="">Contact Us</a>
+<a href="Welcome.html">Welcome</a>
+<a href="Inventory.html">Inventory</a>
+<a href="whyRecycle.html">Why Recycle?</a>
+<a href="aboutUs.html">About Us</a>
+<a href="contactUs.html">Contact Us</a>
 </div>
 </div>
 
