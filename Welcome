@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+body {background-color:rgb(77,92,64);
+}
+</style>
 <title>Welcome to Secondhand Wholesale Treasures!</title>
 </head>
 <body>
