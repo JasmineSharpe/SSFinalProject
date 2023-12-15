@@ -63,6 +63,10 @@ img{
 </div>
 </div>
 
+<div class="logo"
+<img src="SWT logo.png" alt="logo">
+</div> 
+
 <h1>Why Recycle?</h1>
 
 <br>
@@ -78,6 +82,7 @@ Recycling, whether through repurposing clothes or processing materials to create
 By embracing recycling and thrifting, we pivot toward a conscientious, environmentally sound path, mitigating the adverse effects of excessive consumerism and paving the way for a more sustainable future. </p>
 <br>
 <hr>
+<div class="footer">
 <h1>Contact Us!</h1>
 <br>
 <h2>Headquarters:</h2>
@@ -90,5 +95,7 @@ By embracing recycling and thrifting, we pivot toward a conscientious, environme
 <h3>S:982-431-9523</h3>
 <br>
 <h6>Copyright 2023 Secondhand Wholesale Treasures and Company</h6>
+</div>
+
 </body>
 </html>
