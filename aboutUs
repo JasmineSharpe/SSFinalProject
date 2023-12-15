@@ -72,6 +72,8 @@ img{
 
 <br>
 <hr>
+
+<div class="footer">
 <h1>Contact Us!</h1>
 <br>
 <h2>Headquarters:</h2>
@@ -84,5 +86,7 @@ img{
 <h3>S:982-431-9523</h3>
 <br>
 <h6>Copyright 2023 Secondhand Wholesale Treasures and Company</h6>
+</div>
+
 </body>
 </html>
